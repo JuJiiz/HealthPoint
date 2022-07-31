@@ -1,0 +1,19 @@
+<svg fill="none" height="91" viewBox="0 0 244 91" width="244" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#151515" height="53" width="130" x="50" y="38" />
+    <rect fill="#151515" height="83" width="37" x="180" y="8" />
+    <rect fill="#151515" height="91" transform="rotate(-90 153 38)" width="38" x="153" y="38" />
+    <rect fill="#D9D9D9" height="75" width="25" x="186" y="8" />
+    <rect fill="#D9D9D9" height="75" transform="rotate(-90 161 28)" width="20" x="161" y="28" />
+    <rect fill="#151515" height="91" width="40" x="113" />
+    <rect fill="#151515" height="91" width="40" x="63" />
+    <path d="M63 0H103L153 91H113L63 0Z" fill="#151515" />
+    <rect fill="#D9D9D9" height="75" width="25" x="71" y="8" />
+    <rect fill="#D9D9D9" height="75" width="25" x="121" y="8" />
+    <path d="M71 8H96L146 83H121L71 8Z" fill="#D9D9D9" />
+    <rect fill="#151515" height="83" width="37" x="13" y="8" />
+    <rect fill="#151515" height="63" transform="rotate(-90 0 38)" width="38" y="38" />
+    <rect fill="#151515" height="63" transform="rotate(-90 0 91)" width="38" y="91" />
+    <rect fill="#D9D9D9" height="75" width="25" x="19" y="8" />
+    <rect fill="#D9D9D9" height="45" transform="rotate(-90 9 28)" width="20" x="9" y="28" />
+    <rect fill="#D9D9D9" height="45" transform="rotate(-90 9 83)" width="20" x="9" y="83" />
+</svg>

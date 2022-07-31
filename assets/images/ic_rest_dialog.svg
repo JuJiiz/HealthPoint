@@ -1,0 +1,28 @@
+<svg fill="none" height="242" viewBox="0 0 450 242" width="450" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M0 242L0 152C0 146.477 4.47715 142 10 142L440 142C445.523 142 450 146.477 450 152V242L0 242Z"
+        fill="#DCDCDC" />
+    <path
+        d="M180 242V140C180 134.477 184.477 130 190 130H440C445.523 130 450 134.477 450 140V242L180 242Z"
+        fill="#CC4141" />
+    <rect fill="#F9F9F9" height="120" rx="25" transform="rotate(-90 22 155)" width="50" x="22"
+        y="155" />
+    <rect fill="#151515" height="22.461" rx="2.99481" transform="matrix(0 -1 -1 0 184.26 69.6885)"
+        width="5.98961" />
+    <rect fill="#151515" height="22.461" rx="2.99481" transform="matrix(0 -1 -1 0 184.26 86.1598)"
+        width="5.98961" />
+    <rect fill="#151515" height="27.9515" rx="2.99481"
+        transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 185 67.2354)" width="5.98961" />
+    <rect fill="#151515" height="29.9481" rx="3.99307" transform="matrix(0 -1 -1 0 232.013 43.918)"
+        width="7.98615" />
+    <rect fill="#151515" height="29.9481" rx="3.99307"
+        transform="matrix(0 -1 -1 0 232.013 65.8798)" width="7.98615" />
+    <rect fill="#151515" height="37.2687" rx="3.99307"
+        transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 233 40.6471)" width="7.98615" />
+    <rect fill="#151515" height="37.4351" rx="4.99134"
+        transform="matrix(0 -1 -1 0 287.766 11.1475)" width="9.98268" />
+    <rect fill="#151515" height="37.4351" rx="4.99134"
+        transform="matrix(0 -1 -1 0 287.766 38.5997)" width="9.98268" />
+    <rect fill="#151515" height="46.5859" rx="4.99134"
+        transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 289 7.05884)" width="9.98268" />
+</svg>

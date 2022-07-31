@@ -1,0 +1,55 @@
+name: healtpoint
+description: Health Point project
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  freezed_annotation: ^2.0.3
+  flutter_riverpod: ^1.0.4
+  hooks_riverpod: ^1.0.4
+  intl: ^0.17.0
+  package_info_plus: ^1.4.3
+  sqflite: ^2.0.3
+  path: ^1.8.1
+  json_serializable: ^6.2.0
+  path_provider: ^2.0.11
+  share_plus: ^4.0.10
+
+  flutter_svg: ^1.1.1+1
+  liquid_progress_indicator: ^0.4.0
+  syncfusion_flutter_core: ^20.2.40
+  syncfusion_flutter_sliders: ^20.2.40
+  flutter_datetime_picker: ^1.5.1
+  auto_size_text: ^3.0.0
+  rive: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+  build_runner: ^2.1.11
+  freezed: ^2.0.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/rives/
+
+  fonts:
+    - family: Pridi
+      fonts:
+        - asset: assets/fonts/Pridi-Regular.ttf
+        - asset: assets/fonts/Pridi-SemiBold.ttf
+          weight: 600
